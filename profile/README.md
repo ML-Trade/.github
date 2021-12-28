@@ -2,4 +2,4 @@
 
 ## General Project Architecture
 
-![General Architecture Diagram](https://imgur.com/i8rJgYU)
+![General Architecture Diagram](https://i.imgur.com/i8rJgYU.png)
