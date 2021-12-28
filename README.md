@@ -2,4 +2,4 @@
 
 ## General Project Architecture
 
-![General Architecture Diagram](./project/.documentation/general_architecture.png)
+![General Architecture Diagram](./profile/.documentation/general_architecture.png)
